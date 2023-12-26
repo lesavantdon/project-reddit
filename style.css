@@ -1,0 +1,8 @@
+#remove,
+#comments {
+  display: inline-block;
+  text-align: none;
+  float: none;
+  padding-left: 0px;
+  padding-right: 0px;
+}
